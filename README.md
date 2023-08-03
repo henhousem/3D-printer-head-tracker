@@ -19,7 +19,7 @@ Program dependencies include ROS2 Foxy, OpenCV(Latest version works fine) and Nu
 11. As an extra, you can also change the Stereo_SGBM parameter if launching with the disparity map to determine whether you want to use semi-global block matching or regular block-matching to calculate the disparity map.
 
 # Error reporting
-I am relatively new to programming and would like to get any feedback on errors in ineffective practices in my code. Please message me if there are any of these errors so I can work on developing a more refined program. Thank you!
+I am relatively new to programming and would like to get any feedback on errors in ineffective practices in my code. Please message me if there are any of these errors so I can work on developing a more refined program. My email is henrymcd@yahoo.com. Thank you!
 
 # Acknowledgements
 I wouldn't have been able to do this project without multiple very important people working alongside me and offering me advice. I cannot repeat enough my profuse gratitude towards:
